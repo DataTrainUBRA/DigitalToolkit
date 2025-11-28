@@ -1,6 +1,6 @@
 # About
 
-This is the "About" page of my MyST book.
+What is this all 'ABOUT'?!
 
 ```{tip}
-What is this all 'ABOUT'?!
+It's our first try to set up a curated collection of new and existing digital self-learning materials to make learning comftable.
