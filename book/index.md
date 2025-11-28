@@ -1,4 +1,4 @@
 # Welcome to my first try of JB
 
 ```{note}
-It's still in build.
+The website is still in build.
