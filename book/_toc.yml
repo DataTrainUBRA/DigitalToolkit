@@ -1,8 +1,2 @@
 format: jb-book
 root: index
-
-chapters:
-- file: about
-  title: About us
-- file: contact
-  title: Contact
