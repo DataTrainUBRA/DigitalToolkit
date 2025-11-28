@@ -2,3 +2,13 @@
 
 ```{note}
 The website is still in build.
+
+
+## Future topics
+
+- Data Science
+- Programming
+- Research Data Management (RDM)
+- Data Visualization
+- Data Engineering
+- Statistical & Critical Thinking
